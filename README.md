@@ -67,9 +67,6 @@ Focused on **backend systems, full-stack development, and data-driven applicatio
 - Data pipelines & applied ML
 - System fundamentals (OS, CN, DBMS, DSA)
 
----
-
-## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=chpurnabhargav&theme=dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=chpurnabhargav&theme=dark)
