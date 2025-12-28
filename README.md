@@ -1,18 +1,13 @@
 ## About Me
 
-Upcoming Software Engineering Intern at **VISA Inc.**  
-Computer Science (Honours) undergraduate with strong fundamentals in **systems, backend development, and data-driven applications**.
+Upcoming Software Engineering Intern @ **VISA Inc.**  
+CSE (Honours) Undergraduate | KLH University, Hyderabad  
+Focused on **backend systems, full-stack development, and data-driven applications**  
 
-Currently focused on:
-- building scalable full-stack systems
-- data science & ML pipelines
-- strengthening DSA and core CS fundamentals
-
-**Education:**  
-KLH (Deemed-to-be University), Hyderabad  
-B.Tech CSE (Honours), 2023–2027 | CGPA: **9.77**
-
-Open to collaborations on impactful engineering projects.
+- Full-stack developer (React, Node.js, Express, SQL)
+- Exploring Data Science & ML
+- Strong in DSA and core CS fundamentals
+- Open to collaborations
 
 ---
 
@@ -25,42 +20,35 @@ Open to collaborations on impactful engineering projects.
 
 ## Tech Stack
 
-**Languages**  
-C · Java · Python · JavaScript · SQL  
-
-**Web & Backend**  
-React · Node.js · Express.js · REST APIs  
-
-**Data & ML**  
-Pandas · NumPy · Plotly  
-
-**Databases & Cloud**  
-MySQL · PostgreSQL · AWS · Vercel · Render  
-
-**Tools**  
-Git · GitHub · VS Code · Jupyter Notebook  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
 
 ---
 
 ## Selected Projects
 
-**Think Check**  
-AI-powered learning and assessment platform with personalized recommendations and gamified progress tracking.
-
-**TP53 Gene Cancer Detection Pipeline**  
-Python-based bioinformatics pipeline automating mutation detection and sequence analysis.
-
-**Inter-Block Outpass System**  
-Role-based full-stack system automating approval workflows and reducing manual effort.
-
-(See pinned repositories for implementation details.)
+- **Think Check** — AI-powered learning and assessment platform  
+- **TP53 Gene Cancer Detection** — Python bioinformatics pipeline  
+- **Inter-Block Outpass System** — Role-based full-stack workflow automation  
 
 ---
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=chpurnabhargav&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=chpurnabhargav&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=chpurnabhargav&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=chpurnabhargav&theme=dark)
 
 ---
 
